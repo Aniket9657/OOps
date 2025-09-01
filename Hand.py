@@ -1,4 +1,4 @@
-def __init__(self):
+def  __init__(self):
     print("Hand initiate ")
 
 def Finger(finger:int):
